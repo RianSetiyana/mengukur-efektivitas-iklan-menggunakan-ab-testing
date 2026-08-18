@@ -34,7 +34,7 @@ Hipotesis dirumuskan berdasarkan pertanyaan bisnis yang ingin dijawab, yaitu apa
 
 ## Melakukan Z-Test
 
-Proses diawali dengan memisahkan data grup ad dan psa untuk memudahkan perhitungan, kemudian dilanjutkan dengan menghitung jumlah konversi dan jumlah pengguna masing-masing grup. Setelah melakukan Z-test, diperoleh Z-score sebesar 7.37 dan p-value sebesar 8.53 × 10⁻¹⁴, jauh lebih kecil dari α (0.05). Dengan demikian, H0 ditolak, conversion rate grup ad terbukti lebih tinggi dibandingkan grup psa, dan peningkatan ini bukan karena kebetulan, melainkan murni karena iklan.
+Proses diawali dengan memisahkan data grup ad dan psa untuk memudahkan perhitungan, kemudian dilanjutkan dengan menghitung jumlah konversi dan jumlah pengguna masing-masing grup. Setelah melakukan Z-test, diperoleh Z-score sebesar 7.37 dan p-value sebesar 8.53 × 10⁻¹⁴, jauh lebih kecil dari α (0.05). Dengan demikian, H0 ditolak, conversion rate grup ad terbukti lebih tinggi dari grup psa, dan peningkatan ini bukan karena kebetulan, melainkan murni karena iklan.
 
 Detail perhitungan dapat dilihat pada notebook berikut: [1_Z_Test_Ad_Effectiveness](Python/1_Z_Test_Ad_Effectiveness.ipynb)
 
