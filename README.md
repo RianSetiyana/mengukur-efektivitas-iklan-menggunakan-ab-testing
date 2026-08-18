@@ -27,7 +27,7 @@ Digunakan untuk menyajikan hasil analisis dalam bentuk dashboard.
 
 ## Merumuskan Hipotesis
 
-Hipotesis dirumuskan berdasarkan pertanyaan bisnis yang ingin dijawab, yaitu apakah iklan lebih efektif meningkatkan pembelian dibandingkan PSA. Berdasarkan hal tersebut, hipotesis yang dirumuskan adalah sebagai berikut:
+Hipotesis dirumuskan berdasarkan pertanyaan bisnis yang ingin dijawab, yaitu apakah iklan lebih efektif meningkatkan pembelian dibandingkan PSA. Oleh karena itu, hipotesis yang dirumuskan adalah sebagai berikut:
 
 > H0: Conversion rate grup ad tidak lebih tinggi dari grup psa. <br>
 > H1: Conversion rate grup ad lebih tinggi dari grup psa.
