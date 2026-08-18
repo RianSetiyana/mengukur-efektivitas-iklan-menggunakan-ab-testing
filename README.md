@@ -2,7 +2,7 @@
 
 # Ringkasan
 
-Dengan menggunakan data [Marketing A/B Testing](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing), dilakukan uji statistik menggunakan Z-test untuk mengukur efektivitas iklan terhadap pembelian. Data ini terbagi menjadi dua grup, yaitu grup ad yang diperlihatkan iklan, dan grup psa yang diperlihatkan Public Service Announcement (PSA). Setelah melakukan uji statistik, diketahui bahwa iklan yang ditampilkan terbukti efektif meningkatkan pembelian, sehingga penayangan iklan direkomendasikan untuk dilanjutkan. Dengan asumsi jumlah pengguna pada grup ad tetap berada pada skala serupa (~564 ribu pengguna), iklan ini berpotensi menghasilkan sekitar 4,343 pembelian tambahan.
+Pada data [Marketing A/B Testing](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing), dilakukan uji statistik menggunakan Z-test untuk mengukur efektivitas iklan terhadap pembelian. Data ini terbagi menjadi dua grup, yaitu grup ad yang diperlihatkan iklan, dan grup psa yang diperlihatkan Public Service Announcement (PSA). Setelah melakukan uji statistik, diketahui bahwa iklan yang ditampilkan terbukti efektif meningkatkan pembelian, sehingga penayangan iklan direkomendasikan untuk dilanjutkan. Dengan asumsi jumlah pengguna pada grup ad tetap berada pada skala serupa (~564 ribu pengguna), iklan ini berpotensi menghasilkan sekitar 4,343 pembelian tambahan.
 
 # Pertanyaan Bisnis
 
