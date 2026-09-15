@@ -2,7 +2,7 @@
 
 # Ringkasan
 
-Pada data [Marketing A/B Testing](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing), dilakukan uji statistik menggunakan Z-test untuk mengukur efektivitas iklan terhadap pembelian. Data terdiri dari dua grup, yaitu grup ad yang diperlihatkan iklan dan grup psa yang diperlihatkan Public Service Announcement (PSA). Hasil uji menunjukkan bahwa conversion rate grup ad secara statistik lebih tinggi dibandingkan grup psa, sehingga iklan terbukti lebih efektif dalam meningkatkan pembelian.
+Dengan menggunakan data [Marketing A/B Testing](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing), dilakukan uji statistik menggunakan Z-test untuk mengukur efektivitas iklan terhadap pembelian. Data ini terdiri dari dua grup, yaitu grup ad yang diperlihatkan iklan dan grup psa yang diperlihatkan Public Service Announcement (PSA). Analisis mencakup pengujian hipotesis untuk membandingkan tingkat konversi kedua grup, hingga estimasi dampak bisnis dari hasil pengujian tersebut.
 
 # Pertanyaan Bisnis
 
