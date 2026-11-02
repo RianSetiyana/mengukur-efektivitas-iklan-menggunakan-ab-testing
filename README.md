@@ -48,7 +48,7 @@ File dashboard dapat dilihat disini: [Ad_Impact_Overview](Power_BI/Ad_Impact_Ove
 
 <img src="Images/Dashboard_Overview.png" width="700">
 
-**Note**: Icon yang digunakan dalam dashboard ini bersumber dari [Magnific](https://www.magnific.com/app).
+**Note**: Aset visual yang digunakan dalam dashboard ini bersumber dari [Magnific](https://www.magnific.com/app) dan [Unsplash](https://unsplash.com/id).
 
 # Business Recommendation
 
